@@ -24,3 +24,14 @@ var fs = require('fs');
 // // **Remove a Directory
 // fs.rmdir('Test',() => console.log("Done"))
 
+// ?? Make Some Advanced Work
+
+var DataString = '\n';
+
+for(let i=1; i < 10; i++){
+    DataString += `This is Imran... ${i} number printed \n`
+}
+
+fs.mkdir('AD_File', function() {
+    fs.writeFileSync('./AD_File/test2.txt', DataString)
+})

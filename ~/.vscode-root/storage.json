@@ -444,9 +444,10 @@
     },
     "theme": "vs-dark vscode-theme-defaults-themes-dark_plus-json",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/imran/LRN/LnodeJS",
+    "pickerWorkingDir": "/home/imran",
     "openedPathsList": {
         "workspaces": [
+            "/home/imran/MyProtfillo",
             "/home/imran/LRN/LnodeJS/BasicCrush"
         ],
         "files": []
