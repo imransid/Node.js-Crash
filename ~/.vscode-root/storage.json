@@ -447,9 +447,25 @@
     "pickerWorkingDir": "/home/imran",
     "openedPathsList": {
         "workspaces": [
-            "/home/imran/MyProtfillo",
-            "/home/imran/LRN/LnodeJS/BasicCrush"
+            "/home/imran/Cons_Lixu",
+            "/home/imran/Cons_Lixu",
+            "/home/imran/LRN/LnodeJS/BasicCrush",
+            "/home/imran/MyProtfillo"
         ],
         "files": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/home/imran/LRN/LnodeJS/BasicCrush",
+            "backupPath": "/home/imran/LRN/LnodeJS/BasicCrush/~/.vscode-root/Backups/05eb4c63e74a4cfb4686dd8ba99eec96",
+            "uiState": {
+                "mode": 1,
+                "x": 171,
+                "y": 28,
+                "width": 1024,
+                "height": 713
+            }
+        }
     }
 }
